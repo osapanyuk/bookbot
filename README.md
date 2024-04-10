@@ -1,2 +1,2 @@
 # bookbot
-Testing out course
+Testing out course for a student.
